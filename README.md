@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mussarrat Khatoon</h1>
 <h3 align="center">A passionate Data Scientist from India 🇮🇳</h3>
 
-<p align="center"><i>Empowering data-driven decisions with AI, ML, and Power BI — An Outlier who creates insight, not just noise.</i></p>
+<p align="center"><i>Empowering data-driven decisions with AI, ML, and Power BI.</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="female coding" width="400" />
