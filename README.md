@@ -14,15 +14,35 @@
 
 ### 👩‍💻 About Me
 
+- I’m a Data Engineer passionate about designing scalable, reliable, and high-performance data systems. I specialize in transforming raw data into business-ready insights by building automated batch and real-time pipelines on cloud platforms.
+I combine engineering discipline with analytics thinking to deliver data solutions that are production-ready, cost-efficient, and insight-driven.
+
+- 🔹 Clean, transform, and model raw data into analytics-ready datasets
+- ⚙️ Build scalable ETL / ELT pipelines
+- 📊 Design Power BI dashboards for KPIs, SLA tracking, and operations
+- 📈 Apply machine learning for prediction and pattern discovery
+- 🗣️ Translate complex data into clear, actionable insights
+
+- I’ve independently built real-world data engineering and analytics projects covering:
+
+- Cloud Data Pipelines
+- Streaming Architectures
+- Lakehouse Implementations
+- BI Dashboards
+- Workflow Automation
+👉 Explore my repositories to see hands-on, production-style implementations.
+
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 - 📊 Skilled in **Power BI** for Data Visualization and Business Intelligence
 - 🌱 I’m currently learning **Generative AI and MLOps**
 - 💼 Explore my work in repositories: [GitHub Projects](https://github.com/mussarratk?tab=repositories)
 - ✍️ I write articles and case studies on [Medium](https://medium.com/@mussarrat.khatoon)
-- 💬 Ask me about **Data Science, AI/ML, Python, and Power BI**
+- 💬 Ask me about **Data Science, Data Engineer, AI/ML, Python, and Power BI**
 - 📫 Reach me at: [your-email@example.com](mussarratkhatoon09@gmail.com)
 - 📄 Check out my résumé: [My Resume](https://your-link.com/resume.pdf)
 - 🌟 Fun Fact: *Data is my superpower — and storytelling is my strength.*
+
+
 
 ---
 
@@ -93,6 +113,19 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mussarratk&theme=github-dark&hide_border=false" alt="github-streak" />
 </p>
+
+---
+
+- 🏆 Achievements
+- 🏅 Reduced operational costs by 12% using KPI-driven optimization
+- 📊 Built dashboards on 300K+ records
+- ⚙️ Improved team efficiency by 10% via automation
+- 🏆 3× Recognition Awards at Amazon
+
+---
+
+🎓 Education
+- MBA in Data Science, Amity University
 
 ---
 
