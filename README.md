@@ -1,48 +1,43 @@
-
-
 <h1 align="center">Hi 👋, I'm Mussarrat Khatoon</h1>
-<h3 align="center">A passionate Data Scientist from India 🇮🇳</h3>
+<h3 align="center">A passionate Data Engineer from India 🇮🇳</h3>
 
-<p align="center"><i>Empowering data-driven decisions with AI, ML, and Power BI.</i></p>
+<p align="center"><i>Architecting scalable data pipelines and cloud-native analytics solutions.</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="female coding" width="400" />
 </p>
 
-
 ---
 
 ### 👩‍💻 About Me
 
-- I’m a Data Engineer passionate about designing scalable, reliable, and high-performance data systems. I specialize in transforming raw data into business-ready insights by building automated batch and real-time pipelines on cloud platforms.
-I combine engineering discipline with analytics thinking to deliver data solutions that are production-ready, cost-efficient, and insight-driven.
+I am a **Data Engineer** with over 4 years of experience transforming complex, fragmented data into high-performance assets. Currently in the final semester of my **MBA in Data Science**, I specialize in designing scalable, reliable, and automated batch and real-time data pipelines across cloud ecosystems. 
 
-- 🔹 Clean, transform, and model raw data into analytics-ready datasets
-- ⚙️ Build scalable ETL / ELT pipelines
-- 📊 Design Power BI dashboards for KPIs, SLA tracking, and operations
-- 📈 Apply machine learning for prediction and pattern discovery
-- 🗣️ Translate complex data into clear, actionable insights
+Leveraging my extensive background in data projects, I combine deep engineering discipline with analytical thinking to deliver data foundations that are production-ready, cost-efficient, and insight-driven.
 
-- I’ve independently built real-world data engineering and analytics projects covering:
+- 🔹 **Data Architecture:** Build scalable Medallion Architectures (Bronze, Silver, Gold) and ETL/ELT workflows.
+- ⚙️ **Cloud & Compute:** Heavy-duty processing and orchestration using Azure, Databricks, PySpark, and Apache Airflow.
+- 📊 **Business Intelligence:** Design comprehensive Power BI dashboards for KPIs, SLA tracking, and operational efficiency.
+- 🗣️ **Strategic Impact:** Translate complex backend data processes into clear, actionable business insights.
 
-- Cloud Data Pipelines
-- Streaming Architectures
-- Lakehouse Implementations
-- BI Dashboards
-- Workflow Automation
-👉 Explore my repositories to see hands-on, production-style implementations.
+**My hands-on, production-style implementations cover:**
+Cloud Data Pipelines | Streaming Architectures | Lakehouse Implementations | Workflow Automation 
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
-- 📊 Skilled in **Power BI** for Data Visualization and Business Intelligence
-- 🌱 I’m currently learning **Generative AI and MLOps**
-- 💼 Explore my work in repositories: [GitHub Projects](https://github.com/mussarratk?tab=repositories)
-- ✍️ I write articles and case studies on [Medium](https://medium.com/@mussarrat.khatoon)
-- 💬 Ask me about **Data Science, Data Engineer, AI/ML, Python, and Power BI**
-- 📫 Reach me at: [your-email@example.com](mussarratkhatoon09@gmail.com)
-- 📄 Check out my résumé: [My Resume](https://your-link.com/resume.pdf)
-- 🌟 Fun Fact: *Data is my superpower — and storytelling is my strength.*
+👉 Explore my repositories below to see my code in action.
 
+---
 
+### 🚀 Quick Stats & Focus
+
+- 🎓 **Education:** Final Semester, MBA in Data Science (Amity University)
+- 🔭 **Currently working on:** Advanced Cloud Data Engineering, Medallion Architectures, and Real-time Streaming
+- 🌱 **Currently learning:** Advanced Distributed Computing and automated Data Governance
+- 💼 **Portfolio:** [GitHub Projects](https://github.com/mussarratk?tab=repositories)
+- ✍️ **Writing:** Articles and case studies on [Medium](https://medium.com/@mussarrat.khatoon)
+- 💬 **Ask me about:** Data Engineering, PySpark, Azure Data Factory, SQL, and Power BI
+- 📫 **Reach me at:** mussarratkhatoon09@gmail.com
+- 📄 **Resume:** [My Resume](https://your-link.com/resume.pdf) *(Update link here)*
+- 🌟 **Fun Fact:** *Data is my superpower — and building the pipelines that deliver it is my strength.*
 
 ---
 
@@ -52,37 +47,25 @@ I combine engineering discipline with analytics thinking to deliver data solutio
   <a href="https://www.linkedin.com/in/mussarrat-khatoon-24390117b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://twitter.com/MussarratK_1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
   <a href="https://medium.com/@mussarrat.khatoon" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  
   <a href="https://hashnode.com/@your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-%230967FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  
   <a href="https://public.tableau.com/app/profile/mussarrat.khatoon" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
-  
-  <a href="https://www.hackerrank.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  
   <a href="https://www.kaggle.com/mussarratkhatoon" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  
   <a href="https://github.com/mussarratk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
 
 ---
 
@@ -90,14 +73,14 @@ I combine engineering discipline with analytics thinking to deliver data solutio
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -116,23 +99,16 @@ I combine engineering discipline with analytics thinking to deliver data solutio
 
 ---
 
-- 🏆 Achievements
-- 🏅 Reduced operational costs by 12% using KPI-driven optimization
-- 📊 Built dashboards on 300K+ records
-- ⚙️ Improved team efficiency by 10% via automation
-- 🏆 3× Recognition Awards at Amazon
+### 🏆 Milestones & Achievements
 
----
-
-🎓 Education
-- MBA in Data Science, Amity University
+- ⚙️ **Data Optimization:** Engineered Python-based automation and optimized SQL workflows to streamline data processes.
+- 🏅 **Cost Reduction:** Reduced operational costs by 12% using KPI-driven optimization and efficient pipeline design.
+- 📊 **Scale:** Built robust BI dashboards processing over 300K+ records for high-stakes operations.
+- 🚀 **Efficiency:** Improved team efficiency by 10% via workflow automation.
+- 🏆 **Recognition:** 3× Recognition Awards during tenure at Amazon.
 
 ---
 
 ### 🌸 Inspirational Quote
 
-> *“She who controls the data, tells the most powerful stories.”*
-
----
-
-
+> *"The world is one big data problem, and engineering is the solution."*
